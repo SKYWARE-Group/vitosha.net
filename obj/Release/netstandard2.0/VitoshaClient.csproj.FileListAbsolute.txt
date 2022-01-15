@@ -1,8 +1,0 @@
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\bin\Release\netstandard2.0\VitoshaClient.deps.json
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\bin\Release\netstandard2.0\VitoshaClient.dll
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\bin\Release\netstandard2.0\VitoshaClient.pdb
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Release\netstandard2.0\VitoshaClient.AssemblyInfoInputs.cache
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Release\netstandard2.0\VitoshaClient.AssemblyInfo.cs
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Release\netstandard2.0\VitoshaClient.csproj.CoreCompileInputs.cache
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Release\netstandard2.0\VitoshaClient.dll
-F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Release\netstandard2.0\VitoshaClient.pdb
