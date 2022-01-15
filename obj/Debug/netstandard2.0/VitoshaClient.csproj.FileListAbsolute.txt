@@ -1,0 +1,17 @@
+G:\GIT\Vitosha\Vitosha\VitoshaClient\bin\Debug\netstandard2.0\VitoshaClient.deps.json
+G:\GIT\Vitosha\Vitosha\VitoshaClient\bin\Debug\netstandard2.0\VitoshaClient.dll
+G:\GIT\Vitosha\Vitosha\VitoshaClient\bin\Debug\netstandard2.0\VitoshaClient.pdb
+G:\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.csprojAssemblyReference.cache
+G:\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.AssemblyInfoInputs.cache
+G:\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.AssemblyInfo.cs
+G:\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.csproj.CoreCompileInputs.cache
+G:\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.dll
+G:\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.pdb
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\bin\Debug\netstandard2.0\VitoshaClient.deps.json
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\bin\Debug\netstandard2.0\VitoshaClient.dll
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\bin\Debug\netstandard2.0\VitoshaClient.pdb
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.AssemblyInfoInputs.cache
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.AssemblyInfo.cs
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.csproj.CoreCompileInputs.cache
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.dll
+F:\G\GIT\Vitosha\Vitosha\VitoshaClient\obj\Debug\netstandard2.0\VitoshaClient.pdb
